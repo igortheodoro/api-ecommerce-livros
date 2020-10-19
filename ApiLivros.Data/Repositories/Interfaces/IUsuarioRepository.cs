@@ -1,9 +1,10 @@
 ﻿using ApiLivros.Dto;
+using System.Threading.Tasks;
 
 namespace ApiLivros.Data.Repositories.Interfaces
 {
     public interface IUsuarioRepository
     {
-        void Registrar(CadastrarUsuarioDto modelo);
+        Task Registrar(CadastrarUsuarioDto modelo);
     }
 }

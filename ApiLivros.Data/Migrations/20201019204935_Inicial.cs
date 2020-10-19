@@ -41,13 +41,14 @@ namespace ApiLivros.Data.Migrations
                     LockoutEnd = table.Column<DateTimeOffset>(nullable: true),
                     LockoutEnabled = table.Column<bool>(nullable: false),
                     AccessFailedCount = table.Column<int>(nullable: false),
-                    Bairro = table.Column<string>(maxLength: 25, nullable: false),
-                    CEP = table.Column<string>(maxLength: 10, nullable: false),
-                    Complemento = table.Column<string>(maxLength: 25, nullable: false),
-                    Endereco = table.Column<string>(maxLength: 50, nullable: false),
-                    Municipio = table.Column<string>(maxLength: 25, nullable: false),
-                    Telefone = table.Column<string>(maxLength: 15, nullable: false),
-                    UF = table.Column<string>(maxLength: 2, nullable: false)
+                    Discriminator = table.Column<string>(nullable: false),
+                    Bairro = table.Column<string>(maxLength: 25, nullable: true),
+                    CEP = table.Column<string>(maxLength: 10, nullable: true),
+                    Complemento = table.Column<string>(maxLength: 25, nullable: true),
+                    Endereco = table.Column<string>(maxLength: 50, nullable: true),
+                    Municipio = table.Column<string>(maxLength: 25, nullable: true),
+                    Telefone = table.Column<string>(maxLength: 15, nullable: true),
+                    UF = table.Column<string>(maxLength: 2, nullable: true)
                 },
                 constraints: table =>
                 {

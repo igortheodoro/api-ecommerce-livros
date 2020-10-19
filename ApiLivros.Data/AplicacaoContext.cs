@@ -1,4 +1,5 @@
 ﻿using ApiLivros.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiLivros.Data
@@ -10,7 +11,7 @@ namespace ApiLivros.Data
         public DbSet<ItemPedido> ItensPedidos { get; set; }
         public DbSet<Pedido> Pedidos { get; set; }
         public DbSet<Produto> Produtos { get; set; }
-        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<IdentityUser> Usuarios { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

@@ -7,3 +7,12 @@ C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Models\obj\Debug\netcoreapp3.1
 C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.dll
 C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.pdb
 C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ivory\Desktop\api-livros-feature-adicao-usuarios\ApiLivros.Models\bin\Debug\netcoreapp3.1\ApiLivros.Models.deps.json
+C:\Users\Ivory\Desktop\api-livros-feature-adicao-usuarios\ApiLivros.Models\bin\Debug\netcoreapp3.1\ApiLivros.Models.dll
+C:\Users\Ivory\Desktop\api-livros-feature-adicao-usuarios\ApiLivros.Models\bin\Debug\netcoreapp3.1\ApiLivros.Models.pdb
+C:\Users\Ivory\Desktop\api-livros-feature-adicao-usuarios\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.csprojAssemblyReference.cache
+C:\Users\Ivory\Desktop\api-livros-feature-adicao-usuarios\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.AssemblyInfoInputs.cache
+C:\Users\Ivory\Desktop\api-livros-feature-adicao-usuarios\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.AssemblyInfo.cs
+C:\Users\Ivory\Desktop\api-livros-feature-adicao-usuarios\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ivory\Desktop\api-livros-feature-adicao-usuarios\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.dll
+C:\Users\Ivory\Desktop\api-livros-feature-adicao-usuarios\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.pdb
