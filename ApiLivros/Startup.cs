@@ -34,7 +34,8 @@ namespace ApiLivros
             services.AddTransient<ILivrosServices, LivrosServices>();
             services.AddTransient<ICadastroRepository, CadastroRepository>();
             services.AddTransient<IItemPedidoRepository, ItemPedidoRepository>();
-            //services.AddTransient<IPedidoRepository, PedidoRepository>();
+            services.AddTransient<IUsuarioRepository, UsuarioRepository>();
+            services.AddTransient<IUsuariosServices, UsuariosServices>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

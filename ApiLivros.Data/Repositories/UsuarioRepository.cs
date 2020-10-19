@@ -1,13 +1,14 @@
-﻿using ApiLivros.Dto;
+﻿using ApiLivros.Data.Repositories.Interfaces;
+using ApiLivros.Dto;
 using ApiLivros.Models;
 using Microsoft.AspNetCore.Identity;
 
 namespace ApiLivros.Data.Repositories
 {
-    public class UsuarioRepository
+    public class UsuarioRepository : IUsuarioRepository
     {
-        private readonly UserManager<Usuario> context;
-        public UsuarioRepository(UserManager<Usuario> context)
+        private readonly UserManager<IdentityUser> context;
+        public UsuarioRepository(UserManager<IdentityUser> context)
         {
             this.context = context;
         }
