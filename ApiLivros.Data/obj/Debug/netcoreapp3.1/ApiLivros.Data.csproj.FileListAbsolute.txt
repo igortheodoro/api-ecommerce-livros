@@ -1,0 +1,17 @@
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\bin\Debug\netcoreapp3.1\ApiLivros.Models.dll
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\obj\Debug\netcoreapp3.1\ApiLivros.Data.csprojAssemblyReference.cache
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\obj\Debug\netcoreapp3.1\ApiLivros.Data.AssemblyInfoInputs.cache
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\obj\Debug\netcoreapp3.1\ApiLivros.Data.AssemblyInfo.cs
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\bin\Debug\netcoreapp3.1\ApiLivros.Data.deps.json
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\bin\Debug\netcoreapp3.1\ApiLivros.Data.runtimeconfig.json
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\bin\Debug\netcoreapp3.1\ApiLivros.Data.runtimeconfig.dev.json
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\bin\Debug\netcoreapp3.1\ApiLivros.Data.dll
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\bin\Debug\netcoreapp3.1\ApiLivros.Data.pdb
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\bin\Debug\netcoreapp3.1\ApiLivros.Models.pdb
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\obj\Debug\netcoreapp3.1\ApiLivros.Data.csproj.CopyComplete
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\obj\Debug\netcoreapp3.1\ApiLivros.Data.dll
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\obj\Debug\netcoreapp3.1\ApiLivros.Data.pdb
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\obj\Debug\netcoreapp3.1\ApiLivros.Data.genruntimeconfig.cache
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\obj\Debug\netcoreapp3.1\ApiLivros.Data.csproj.CoreCompileInputs.cache
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\bin\Debug\netcoreapp3.1\ApiLivros.Dto.dll
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Data\bin\Debug\netcoreapp3.1\ApiLivros.Dto.pdb

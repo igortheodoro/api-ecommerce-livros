@@ -1,0 +1,9 @@
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Models\bin\Debug\netcoreapp3.1\ApiLivros.Models.deps.json
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Models\bin\Debug\netcoreapp3.1\ApiLivros.Models.dll
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Models\bin\Debug\netcoreapp3.1\ApiLivros.Models.pdb
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.csprojAssemblyReference.cache
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.AssemblyInfoInputs.cache
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.AssemblyInfo.cs
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.dll
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.pdb
+C:\Users\igort\Desktop\Livros\ApiLivros\ApiLivros.Models\obj\Debug\netcoreapp3.1\ApiLivros.Models.csproj.CoreCompileInputs.cache
